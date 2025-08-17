@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\blake\\OneDrive\\Documents\\Unreal Projects\\Quaternions\\Source\\Quaternions\\Quaternions.Build.cs",
+		"C:\\Users\\blake\\OneDrive\\Documents\\Unreal Projects\\Quaternions\\Source\\Quaternions.Target.cs",
+		"C:\\Users\\blake\\OneDrive\\Documents\\Unreal Projects\\Quaternions\\Source\\QuaternionsEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

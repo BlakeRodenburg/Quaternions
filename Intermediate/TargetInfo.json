@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Quaternions",
+			"Path": "..\\Source\\Quaternions.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QuaternionsEditor",
+			"Path": "..\\Source\\QuaternionsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
